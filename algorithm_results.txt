@@ -1,0 +1,6 @@
+First Come First Serve,14.25,7.75
+Shortest Remaining Time First,12.5,6.0
+Shortest Remaining Time First,12.5,6.0
+Round Robin,19.25,12.75
+MultiLevelFeedbackQueue,20.0,13.5
+Priority Scheduling,17.5,11.0
