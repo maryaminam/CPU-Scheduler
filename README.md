@@ -1,1 +1,3 @@
 The Process Scheduling Simulator is designed to simulate various process scheduling algorithms commonly used in operating systems. It reads process information from input files and uses different scheduling algorithms to manage the execution order of these processes. The main focus is on evaluating and comparing the performance of these algorithms by visualizing the process execution timeline through Gantt charts and calculating performance metrics such as average turnaround time and average waiting time.
+
+Moreover, you can look into the file named report to see the gui and detailed explanation.
