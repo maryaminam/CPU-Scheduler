@@ -121,11 +121,35 @@ Results are appended to `algorithm_results.txt` for later comparison.
 ---
 
 
-## 📚 Additional Documentation
+## 📚 UI Screens
+Main Menu:
 
-For GUI snapshots and extended explanation, see:
+<img width="940" height="623" alt="image" src="https://github.com/user-attachments/assets/8eaa1b72-bd64-47e5-8d55-fcd4e9e8b7c6" />
 
-- `Report.docx`
+<img width="940" height="622" alt="image" src="https://github.com/user-attachments/assets/d1f915d3-96a2-45e3-9d12-b08e127b2eea" />
+
+<img width="940" height="621" alt="image" src="https://github.com/user-attachments/assets/e7fdfeae-0a2d-40e8-883b-a7dfdcbc3ce5" />
+
+
+**First Come First Serve (FCFS)**
+<img width="940" height="625" alt="image" src="https://github.com/user-attachments/assets/9099af79-d7a6-4f09-bb7f-844d432452c1" />
+
+**Shortest Remaining Time First (SRTF)**
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/0cbfc46c-f1dc-492d-98fa-37847ee4df66" />
+
+**Round Robin (RR)**
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/5f7c9828-d40f-477f-b4dc-083a6218ae6b" />
+
+**Priority Scheduling**
+<img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/d9674984-bd0a-4844-8f61-8189a2d8532c" />
+
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/2995b667-c9f6-4fe3-8e3e-91884af0ad93" />
+
+**Multilevel Feedback Queue (MLFQ)**
+<img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/3867bbb0-86b1-4a29-b725-366c47a2fad2" />
+
+
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/3a2a0a9e-4331-48ec-b3a1-28fdcdd4396b" />
 
 ---
 
