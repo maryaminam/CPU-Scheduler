@@ -120,20 +120,6 @@ Results are appended to `algorithm_results.txt` for later comparison.
 
 ---
 
-## 🎯 Why This Project Matters
-
-This project demonstrates practical skills in:
-
-- Operating Systems fundamentals
-- Algorithm implementation and analysis
-- Object-oriented Java development
-- GUI application design with Swing
-- Data parsing and result visualization
-
-It is a strong portfolio project for roles related to:
-**Software Engineering**, **Systems Programming**, and **Backend/Platform Foundations**.
-
----
 
 ## 📚 Additional Documentation
 
